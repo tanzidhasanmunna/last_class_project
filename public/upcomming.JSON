@@ -1,0 +1,42 @@
+[
+    {
+      "id": 5,
+      "title": "New AI Assistant",
+      "content": "Introducing our cutting-edge AI assistant that will help you manage your tasks and stay organized.",
+      "author": "Tabnine",
+      "date": "2024-11-01",
+      "tags": ["AI", "productivity"],
+      "category": "Tech",
+      "image": "https://example.com/product1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Innovative Smart Home System",
+      "content": "Experience the future of home automation with our latest smart home system.",
+      "author": "Tabnine",
+      "date": "2024-11-01",
+      "tags": ["smart home", "technology"],
+      "category": "Tech",
+      "image": "https://example.com/product2.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Revolutionary Fitness Tracker",
+      "content": "Stay motivated and track your fitness progress with our revolutionary fitness tracker.",
+      "author": "Tabnine",
+      "date": "2024-11-01",
+      "tags": ["fitness", "wearable"],
+      "category": "Health",
+      "image": "https://example.com/product3.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Next-Generation Electric Vehicle",
+      "content": "Discover our next-generation electric vehicle that will redefine the future of transportation.",
+      "author": "Tabnine",
+      "date": "2024-11-01",
+      "tags": ["electric vehicle", "transportation"],
+      "category": "Tech",
+      "image": "https://example.com/product4.jpg"
+    }
+  ]

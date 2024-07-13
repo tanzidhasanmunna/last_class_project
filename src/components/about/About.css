@@ -1,0 +1,20 @@
+.about-us {
+  text-align: center;
+}
+.about-us h1 {
+  text-align: center;
+  margin: 20px 0;
+  font-weight: 500;
+  font-size: 32px;
+  color: #1e2738;
+}
+.about-us span {
+  border-bottom: 2px solid #1e2738;
+  font-weight: bold;
+  padding: 0 16px;
+}
+
+.about-us p {
+  text-align: center;
+  margin: 0 16px;
+}

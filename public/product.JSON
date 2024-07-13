@@ -1,0 +1,83 @@
+[
+  {
+    "id": "001",
+    "name": "Sample Product",
+    "description": "This is a sample product description.",
+    "price": 29.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "https://example.com/images/sample-product.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Another Product",
+    "description": "Description for another product.",
+    "price": 49.99,
+    "currency": "USD",
+    "category": "Home Appliances",
+    "image": "https://example.com/images/another-product.jpg"
+  },
+  {
+    "id": "003",
+    "name": "Base64 Image Product",
+    "description": "Product with base64 encoded image.",
+    "price": 19.99,
+    "currency": "USD",
+    "category": "Toys",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA..."
+  },
+  {
+    "id": "004",
+    "name": "Luxury Watch",
+    "description": "An elegant luxury watch.",
+    "price": 499.99,
+    "currency": "USD",
+    "category": "Accessories",
+    "image": "https://example.com/images/luxury-watch.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones.",
+    "price": 89.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "https://example.com/images/wireless-headphones.jpg"
+  },
+  {
+    "id": "006",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with advanced features.",
+    "price": 699.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "image": "https://example.com/images/smartphone.jpg"
+  },
+  {
+    "id": "007",
+    "name": "Gaming Laptop",
+    "description": "High-performance gaming laptop.",
+    "price": 1299.99,
+    "currency": "USD",
+    "category": "Computers",
+    "image": "https://example.com/images/gaming-laptop.jpg"
+  },
+  {
+    "id": "008",
+    "name": "Fitness Tracker",
+    "description": "Wearable fitness tracker with heart rate monitor.",
+    "price": 59.99,
+    "currency": "USD",
+    "category": "Health",
+    "image": "https://example.com/images/fitness-tracker.jpg"
+  },
+  {
+    "id": "009",
+    "name": "Smart Home Hub",
+    "description": "Control your smart home devices with this hub.",
+    "price": 129.99,
+    "currency": "USD",
+    "category": "Home",
+    "image": "https://example.com/images/smart-home-hub.jpg"
+  }
+]

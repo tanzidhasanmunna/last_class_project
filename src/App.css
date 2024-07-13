@@ -1,0 +1,22 @@
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:8px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-weight: 500;font-size: 32px;
+    color: #1E2738;
+  }
+
+.name-product{
+    border-bottom: 2px solid #1E2738; 
+    font-weight: bold;
+}
+.blog-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:8px;
+}
